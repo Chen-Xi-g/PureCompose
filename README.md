@@ -1,5 +1,6 @@
 # 🚀 PureCompose
 
+[![中文文档](https://img.shields.io/badge/Language-中文文档-purple.svg?style=for-the-badge)](README.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge&)](LICENSE)
 [![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/compose)
 [![Compose Multiplatform](https://img.shields.io/badge/Compose%20Multiplatform-blue?style=for-the-badge&logo=jetbrains)](https://www.jetbrains.com/compose-multiplatform)
