@@ -44,6 +44,9 @@ fun TypewriterTextComponent() {
     )
 }
 
+/**
+ * TODO: When the component leaves the screen, it causes the animation effect to re-execute
+ */
 @Composable
 fun TypewriterText(
     text: String,
